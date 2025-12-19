@@ -1,14 +1,15 @@
-Basic Router Configuration 
-(1 Router + 1 PC)
+📘 Title
 
-Topology
+Basic Router Configuration (1 Router + 1 PC)
 
-Step 1: Devices Required
-1 Router
-1 PC
-1 Copper Straight-Through Cable
+🎯 Objective
 
-Step 2: Connections
-Connect PC0 → FastEthernet0
-Connect Router0 → FastEthernet0/0
+To configure basic connectivity between one router and one PC using a copper straight-through cable and verify network communication.
 
+🖥️ Topology Overview
+
+One Router connected to one PC
+
+Single LAN network
+
+Used for basic router CLI practice
