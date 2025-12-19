@@ -1,1 +1,3 @@
-Basic Configuration (1 Router + 1 PC)
+Basic Router Configuration 
+(1 Router + 1 PC)
+
